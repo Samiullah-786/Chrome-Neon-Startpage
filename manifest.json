@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Sami Neon Start Page",
+  "version": "1.0.0",
+  "description": "A personal neon Chrome new tab page with social login shortcuts.",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
